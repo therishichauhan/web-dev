@@ -710,11 +710,3 @@ The following are some of the commonly used audio formats:
 * **Semantic Structure**: Ensure a proper hierarchical structure using headings from `<h1>` to `<h6>`.
 * **Schema Markup**: Use schema.org markup to provide search engines with structured information.
 * **Sitemaps**: Generate and submit a sitemap to search engines to help them crawl and index your site.
-
-## Links
-
-* http://isobar-idev.github.io/code-standards/
-* http://learn.shayhowe.com/html-css/writing-your-best-code/
-* https://www.webaccessibility.com/best_practices.php
-* https://github.com/hail2u/html-best-practices
-* Formatter: https://duckduckgo.com/?t=ffab&q=html+beautifier&ia=answer
