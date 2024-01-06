@@ -1476,12 +1476,3 @@ Relative units are responsive and adapt based on the context in which they're us
 * Use CSS properties like `transform` and `opacity` for animations and transitions that leverage hardware acceleration.
 * Optimize images and other assets used as background images or within your styles.
 * Utilize browser caching to improve page load times for returning visitors.
-
-## Links
-
-- [Official Website](https://www.w3.org/Style/CSS/)
-- [Isobar Front-end Code Standards](http://isobar-idev.github.io/code-standards/)
-- [HTML Best Practices](https://github.com/hail2u/html-best-practices)
-- [Writing Your Best Code](http://learn.shayhowe.com/html-css/writing-your-best-code/)
-- [Web Accessibility Best Practices](https://www.webaccessibility.com/best_practices.php)
-- [CleanCSS Formatter](https://www.cleancss.com/css-beautify/)
