@@ -1,4 +1,3 @@
-[source](https://databasedive.com/mysql-indexing-best-practices-779282b0995b)
 
 # General
 

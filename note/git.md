@@ -10,11 +10,6 @@ Git wants to keep commits as lightweight as possible though, so it doesn't just 
 2. Create a new branch for every new feature.
 3. Use Pull Requests to merge code to Master.
 
-![Git Workflow](../pics/git/git_workflow.jpg)
-
-[Source 1](https://www.freecodecamp.org/news/follow-these-simple-rules-and-youll-become-a-git-and-github-master-e1045057468f/)
-[Source 2](https://www.freecodecamp.org/news/how-to-use-git-efficiently-54320a236369/)
-[Source 3](https://pathof.dev/blog/making-sense-of-git-and-github)
 
 # Quick Edit
 
